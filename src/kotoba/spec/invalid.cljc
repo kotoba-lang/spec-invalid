@@ -7,4 +7,4 @@
 "
   )
 
-(def invalid ::invalid)
+(def invalid :kotoba.lang.spec/invalid)
